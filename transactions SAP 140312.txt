@@ -1,0 +1,91 @@
+TR0000100096SPRO                                            Customizing - Traitement de projet                                                                                                  
+TR0000100095CADO                                            Feuille sais. tps : afficher données                                                                                                
+TR0000100094CAC2                                            Feuille saisie tps : sélection zones                                                                                                
+TR0000100090SEARCH_SAP_MENU                                 Recherche dans le menu SAP                                                                                                          
+TR0000100088MD63                                            Afficher planification anticipée                                                                                                    
+TR0000100087MD13                                            Afficher ordre planifié                                                                                                             
+TR0000100086COOISPI                                         Système d'information ordres process                                                                                                
+TR0000100084GR55                                            Exécuter un groupe d'états                                                                                                          
+TR0000100083MM03                                            Afficher article &                                                                                                                  
+TR0000100082KO03                                            Afficher ordre interne                                                                                                              
+TR0000100089KOH3                                            Afficher groupe d'ordres                                                                                                            
+TR0000100081SU01D                                           Affichage utilisateur                                                                                                               
+TR0000100080ME1M                                            Fiches infos-achats par article                                                                                                     
+TR0000100091Z3ZM                                            Edition suivi projets/ordre                                                                                                         
+  0000100076                                                analyse SAP                                                                                                                         
+TR0000100074ME23N                                           Afficher commande                                                                                                                   
+TR0000100072Z378                                            Liste des articles                                                                                                                  
+TR0000100071MB1A                                            Sortie de marchandises                                                                                                              
+TR0000100070MB1B                                            Transfert article                                                                                                                   
+TR0000100069MB26                                            Liste de prélèvement                                                                                                                
+TR0000100065Z3I5                                            Etat de filiation des lots de PF et                                                                                                 
+TR0000100063MSC3N                                           Afficher lot Date de peremption                                                                                                     
+TR0000100062Z3D7                                            Ajustement des qtés sur lot QM                                                                                                      
+TR0000100061LS24                                            Afficher quants / article                                                                                                           
+TR0000100060MD04                                            Afficher l'état dynamique des stocks                                                                                                
+TR0000100059Z3I5                                            Etat de filiation des lots de PF et                                                                                                 
+TR0000100058MB56                                            Analyser le cas d'emploi des lots                                                                                                   
+TR0000100057CRC3                                            Afficher ressource                                                                                                                  
+TR0000100056CS03                                            Afficher nomenclature article                                                                                                       
+TR0000100055VL02N                                           Modifier livraison sortante                                                                                                         
+TR0000100054VL03N                                           Afficher livraison sortante                                                                                                         
+  0000100050                                                Nomenclatures                                                                                                                       
+TR0000100048LT24                                            Afficher OT / article                                                                                                               
+TR0000100046MB56                                            Analyser le cas d'emploi des lots                                                                                                   
+TR0000100047COR3                                            Afficher ordre de process                                                                                                           
+TR0000100045CORT                                            Afficher confirmation ordre process                                                                                                 
+TR0000100044COR6                                            Confirmation indiv. ordre de process                                                                                                
+TR0000100043Z3FJ                                            Contrôle de mise en oeuvre des OIC                                                                                                  
+  0000100041                                                Détail OF                                                                                                                           
+TR0000100037CM02                                            Planning des lignes ex P-2A1                                                                                                        
+  0000100039                                                Edition ou re edition d'etiquettes                                                                                                  
+  0000100034                                                Document Article                                                                                                                    
+  0000100026                                                Conso des OIC / Retour des OIC                                                                                                      
+  0000100020                                                Conso des PR                                                                                                                        
+  0000100011                                                Appro OIC                                                                                                                           
+  0000100007                                                Déclaration d'échantillons                                                                                                          
+  0000100009                                                Annulation d'une déclaration                                                                                                        
+TR0000100049LS26                                            Stocks magasin / article                                                                                                            
+TR0000100066CORO                                            Créer ordre de process sans article                                                                                                 
+TR0000100079COIO                                            Système d'info. des ordres PP-PI                                                                                                    
+  0000100093                                                pas d'accès                                                                                                                         
+TR0000700005Z3Z9                                            Déclaration de production                                                                                                           
+TR0000700006Z3BT                                            Rebut/Ech. lot QM en gestion d'US                                                                                                   
+TR0000700008Z3W1                                            WM-rangement:consultation état d'US                                                                                                 
+TR0000900002LS24                                            Afficher quants / article                                                                                                           
+TR0000900003CORS                                            Annuler confirmation ordre process                                                                                                  
+TR0000900004LB11                                            DT pour article                                                                                                                     
+TR0001100012LP10                                            Prélèvement direct pour OF                                                                                                          
+TR0001100013LB13                                            DT pour besoin                                                                                                                      
+  0001100014                                                réappro OIC                                                                                                                         
+TR0002000021Z3DO                                            Confirmation ordre de process                                                                                                       
+TR0002000029MMBE                                            Synthèse des stocks                                                                                                                 
+  0002000030                                                Confirmation d'une opération intermédiaire                                                                                          
+TR0002600027Z3FK                                            Consommation des OIC                                                                                                                
+TR0002600028Z3FA                                            Création / confirmation OT d'UM                                                                                                     
+TR0002600042LS26                                            Stocks magasin / article                                                                                                            
+TR0003400035MB51                                            Liste des documents article                                                                                                         
+TR0003900038Z3DB                                            Réédition étiquette US / plot Dialog                                                                                                
+TR0003900036Z3Z8                                            Etiquetage supplémentaire palette, ech....                                                                                          
+TR0004100040COR3                                            Afficher ordre de process                                                                                                           
+TR0005000052Z383                                            Impression des nomenclatures article                                                                                                
+TR0005000051CS03                                            Afficher nomenclature article                                                                                                       
+TR0007600078SE16                                            Data Browser                                                                                                                        
+TR0007600077MCS1                                            Analyses standard logistique général                                                                                                
+TR0007600064COIO                                            Système d'info. des ordres PP-PI                                                                                                    
+TR0007600067MC10                                            Exécuter analyse                                                                                                                    
+TR0007600068CM07                                            Planif.capac.  entrée variable                                                                                                      
+TR0007600073COGI                                            Correct. mouvem. de stock av. erreur                                                                                                
+TR0007600075MC23                                            Afficher structure-info                                                                                                             
+TR0009300092KB23N                                           Afficher l'imputation dir. d'activ.                                                                                                 
+TR0001400015LS26                                            Stocks magasin / article                                                                                                            
+TR0001400016LP10                                            Prélèvement direct pour OF                                                                                                          
+TR0001400022LB10                                            DT pour type de magasin                                                                                                             
+TR0001400023Z3FH                                            Bon de livraison Interne                                                                                                            
+TR0001400024Z3FF                                            Confirmation OT de préparation                                                                                                      
+  0001400017                                                Modif réappro OIC                                                                                                                   
+TR0003000031COR6                                            Confirmation indiv. ordre de process                                                                                                
+TR0003000032COPI                                            Imprimer dossier de fabrication                                                                                                     
+TR0003000033Z3DO                                            Confirmation ordre de process                                                                                                       
+TR0001700018LB13                                            DT pour besoin                                                                                                                      
+TR0001700019LB02                                            Modifier demande de transfert                                                                                                       
